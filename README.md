@@ -12,7 +12,8 @@ As a self development project for myself, to further solidify what I have learne
 * It includes case studies using datasets from the National Institutes of Health and other sources.
 
 * Many of the exercises use short programs to run experiments and help readers develop understanding.
-  
+
+
 
 
 
